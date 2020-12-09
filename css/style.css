@@ -1,0 +1,47 @@
+@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/btn-orange.css")
+@import url("components/card-white.css");
+
+
+
+body {
+  font-size: 18px;
+  margin: 0px;
+}
+h2, h3 {
+  font-weight: bold;
+  color: orange;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+}
+}
+
+h1 {
+	color: orange;
+	font-family: impact;
+	text-align: center;
+	font-weight: 800;
+	letter-spacing: 10px;
+	font-size: 50px;
+	text-transform: uppercase;
+}
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+.list-inline li{
+	display: inline;
+	padding: 10px;
+}
+.list-inline i {
+	font-size: 50px;
+	color: rgb(230, 230, 230);
+}
+
+
+
+
+
